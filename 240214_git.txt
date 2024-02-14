@@ -1,0 +1,51 @@
+20240214 (수)
+일러스트의 패널 활용과 펜툴 활용에 대해서 배웠다.
+git에 대해서 처음 배웠고, 따라갈 수 있으나 이해는 되지 않는다. 
+
+main 
+repository 저장소
+
+빨강 전혀없음 
+녹색 커밋 안 했음 (add 는 한 상태)
+
+git status
+git add 어쩌구
+git status 
+git commit -m "어쩌구 메모" 
+(반드시 메모를 해야함, 커뮤니케이션을 위해)
+git log 
+git log --oneline 
+
+git 저장소를 만들어야함, 2개 만들면 안돼 
+아무것도 안 했을 때 삭제 
+(상위 폴더에 깃을 만들면 안됨)
+
+숨김 폴더가 있으면 git 저장소 있음
+
+2개 이상의 저장이 있을 땐
+git add . 
+전부 다 저장해줌
+
+~~~Q
+
+git status -s 짧게 볼 수 있음 
+
+한 번이라도 커밋이 된 파일은 
+git commit -am "어쩌구" 
+(git add 안해도 됨)
+
+삭제된 것을 복구할 때는 
+git revert 코드
+
+main l reverting (완전하지 않다는 의미)
+
+
+
+
+
+
+
+
+
+ 
+
