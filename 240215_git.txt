@@ -1,0 +1,45 @@
+20240215 (목)
+펜툴 사용애서 앵커포인트 활용을 배웠다. 
+일러스트에서 복사할 수 있는 여러가지 방법과 단축키를 배웠다. 
+기존에 펜툴을 다룰 수 있다고 생각했지만 만들기 어려운 예제가 있었고, 선생님의 설명을 통해서 새로운 방법을 배웠다.
+스트로크 상세 설정에 대해서 배웠다.
+열린 패스를 닫힌 패스로 만드는 것을 배웠다. 
+
+방향키를 이용해서 전에 사용했던 명령어를 불러올 수 있음
+
+git switch - 직전에 있던 banch로 이동 하겠다는 의미 
+
+- 새로운 banch 만들기
+git branch 어쩌구 
+git branch --list (banch가 만들어졌는지 확인 , *로 표시된 게 지금 내가 있는 곳)
+gut switch 어쩌구 (새로 만든 banch 로 이동)
+
+들어가 있는 branch에서 수정한 내용은 다른 branch로 이동하더라도 
+다시 돌아가 commit 해야함  (commit을 하면 다른 branch에는 수정된 내용이 나타나지 않음) 
+
+git diff 를 입력하면 변경된 사항을 볼 수 있음 
+
+탭키를 누르면 중복되지 않는 숫자 전까지 나옴 (맥에선 선택하게끔 나옴) 
+
+git switch -c 어쩌구 (branch를 생성하고 바로 이동하겠다는 의미 
+
+git merge 어쩌구 (현재 있는 branch에서 입력한 branch를 합친다)
+변경사항이나 문서가 내용이 겹치지 않으면 잘 합쳐지만 다르면 안 합쳐짐 
+합쳤어도 branch는 남아있음 
+
+대문자를 쓰는 것과 소문자를 쓰는 것이 다름 (헷갈리면 안됨) 
+
+빔은 :wq 로
+
+github는 한 번이라도 commit을 했다면 바로 등록 가능 
+git push -u origin main 로 연결 
+
+일처적으로는 깃허브에서 지우고 
+이차적으로는 
+git config --unset --global user.name
+git config --unset --global user.email
+git remote rm origin
+자격 증명 관리자에서 일반 자격 증명 삭제
+
+
+
