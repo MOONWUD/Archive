@@ -31,6 +31,7 @@ git merge 어쩌구 (현재 있는 branch에서 입력한 branch를 합친다)
 
 빔은 :wq 로
 
+
 github는 한 번이라도 commit을 했다면 바로 등록 가능 
 git push -u origin main 로 연결 
 
