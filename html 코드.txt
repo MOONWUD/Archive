@@ -4,7 +4,7 @@ html 코드 모음
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-	<meta charset="UTF-8">
+	<meta charset="utf-8">
 	<title></title>
 </head>
 <body>
