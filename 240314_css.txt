@@ -1,0 +1,18 @@
+240314 (목)
+
+1. 예약 시스템 
+- 주차장
+- ui 디자인
+
+2. 자바스크립트
+- 자유주제 + 쇼핑몰
+
+3. 리액트 개발 
+- 주차장
+
+UIUX 디자인 기초에 대해서 배웠다. 
+
+오후에는 layout
+새로운 단위인 em과 rem, viewport, vw, vhfmf 배웠다.
+
+flex-direction과 flex-wrap그리고,,, flex-flowfmf 배웠다. 
