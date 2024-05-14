@@ -1,8 +1,39 @@
 1. 리스트 이미지 수정
 w 300
 h 375
+= 편집 완료 3:04
+
 
 2. header, footer scss 구현 
+$textColor = color: #fff
+$enFont = font-family: 'Jost', -apple-system, BlinkMacSystemFont, "Malgun Gothic", "맑은 고딕", helvetica, "Apple SD Gothic Neo", sans-serif; 
+$koFont = font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, "Malgun Gothic", "맑은 고딕", helvetica, "Apple SD Gothic Neo", sans-serif; 
+
+font-size 18 / 16/ 14 
+font-weight: 500;
+
+/****** color 변수 ******/
+$wColor: #fff;
+$bColor: #000;
+$mColor: #0000C5;
+$gColor: #AEAEAE;
+
+/****** font 변수 ******/
+@mixin enFont($font-weight:500, $font-size:16px, $color:$bColor) {
+  font-family: 'Jost', -apple-system, BlinkMacSystemFont, "Malgun Gothic", "맑은 고딕", helvetica, "Apple SD Gothic Neo", sans-serif;
+  font-weight: $font-weight;
+  font-size: $font-size;
+  color: $color;
+}
+@mixin koFont($font-weight:500, $font-size:16px, $color:$bColor) {
+  font-family: 'Pretendard', -apple-system, BlinkMacSystemFont, "Malgun Gothic", "맑은 고딕", helvetica, "Apple SD Gothic Neo", sans-serif;
+  font-weight: $font-weight;
+  font-size: $font-size;
+  color: $color;
+}
+
+= header 구현 완료 4:01
+= footer 구현 완료 5:38
 
 3. productpage html 설계
 
