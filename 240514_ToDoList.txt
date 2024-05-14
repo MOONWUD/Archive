@@ -1,0 +1,9 @@
+1. 리스트 이미지 수정
+w 300
+h 375
+
+2. header, footer scss 구현 
+
+3. productpage html 설계
+
+4. productpage scss 구현
