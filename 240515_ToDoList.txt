@@ -1,5 +1,16 @@
 1. 공유 파일에 사진 정리
+productPage는 사진 정리 완료
+= 09:15
 
-2. productpage html 설계
+2. global.scss에 마우스 이모지 구현
++ 경로 수정 추가 작업
+= 02:45
 
-3. productpage scss 구현 
+3. productpage html 설계
+= 03:06
+
+4. productpage scss 구현 
+거진 다했음 
+
+
+
