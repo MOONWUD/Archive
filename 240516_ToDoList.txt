@@ -1,0 +1,10 @@
+1. product page Js 구현
+
+2. product page 두개 더 만들기
+
+3. headerm footer min, max 변경하기
++ 모바일 구현
+
+4. product page mo 구현
+
+5. main page 들어가기
