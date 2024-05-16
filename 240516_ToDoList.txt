@@ -2,9 +2,10 @@
 
 2. product page 두개 더 만들기
 
-3. headerm footer min, max 변경하기
-+ 모바일 구현
+3. header footer min, max 변경하기
+= 완 !
 
 4. product page mo 구현
 
 5. main page 들어가기
+= 완 !
